@@ -1,0 +1,26 @@
+* {
+  border-block-color: inherit;
+}
+
+.text-input {
+  padding: 0px 20px;
+  color: white;
+}
+
+#title-input {
+  margin: 10px;
+  color: white;
+}
+
+#requirements-margin {
+  margin: 10px;
+  color: white;
+}
+
+#add-button {
+  padding: 0px 13px;
+  margin: 0px 30px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 8px;
+}
